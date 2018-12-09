@@ -1,12 +1,19 @@
 # Purchase Prediction through Ads by People in a Social Network using: 
-- #### Logistic Regression
-- #### K-Nearest Neighbors (K-NN)
-- #### Support Vector Machine (SVM)
-- #### Kernel SVM
-- #### Naive Bayes Classifier
-- #### Decision Tree Classifier
-- #### Random Forest Classifier
-
+- #### Logistic Regression  
+https://en.wikipedia.org/wiki/Logistic_regression
+- #### K-Nearest Neighbors (K-NN)  
+https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm
+- #### Support Vector Machine (SVM)  
+https://en.wikipedia.org/wiki/Support_vector_machine
+- #### Kernel SVM  
+https://en.wikipedia.org/wiki/Kernel_method
+- #### Naive Bayes Classifier  
+ttps://en.wikipedia.org/wiki/Naive_Bayes_classifier
+- #### Decision Tree Classifier  
+https://en.wikipedia.org/wiki/Decision_tree_learning
+- #### Random Forest Classifier  
+https://en.wikipedia.org/wiki/Random_forest  
+  
 ## Accuracy Achieved:
 - #### Logistic Regression -> 89%
 - #### K-Nearest Neighbors (K-NN) -> 93%
